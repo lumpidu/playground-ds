@@ -1,3 +1,4 @@
 # Playground for Daniel
-All kind of unrelated scripts I created. You can copy these as you like under MIT License.
+
+Some unrelated scripts I created with copying of additional 3rd party source code. You may copy my work under MIT License.
 
